@@ -1,72 +1,92 @@
-# Welcome to My Professional GitHub Profile! 🚀
-
-Hi there! I'm a passionate developer with expertise in both software and hardware technologies. Below, you'll find a showcase of my skills, projects, and interests. Feel free to explore my repositories and reach out if you'd like to collaborate or connect!
-
----
-
-## 🎥 **Dynamic Introduction**
-[![Watch this video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
-*(Replace `VIDEO_ID` with a YouTube video ID that represents your work or interests!)*
+<h1 align="center">Hi 👋, I'm Milan</h1>
+<h3 align="center">A passionate frontend developer from [Your Location]</h3>
 
 ---
 
-## 🛠️ **Technical Skills**
+### 🚀 Languages and Tools I Use
 
-### **Programming Languages**
-- **C** - Proficient in low-level programming and system development.
-- **C++** - Experienced in object-oriented programming and performance-critical applications.
-- **Python (Flask)** - Skilled in building web applications and APIs using Flask.
-
-### **Web Development**
-- **HTML** - Strong understanding of web structure and semantics.
-- **CSS** - Proficient in styling and creating responsive designs.
-- **JavaScript** - Experienced in front-end development and interactivity.
-- **React** - Skilled in building dynamic and scalable user interfaces.
-
-### **Version Control & Collaboration**
-- **Git** - Proficient in version control and branching strategies.
-- **GitHub** - Experienced in collaborative development and open-source contributions.
-
-### **Databases**
-- **MySQL** - Skilled in database design, querying, and management.
-
-### **Networking & Hardware**
-- **Cisco** - Knowledgeable in networking fundamentals and Cisco technologies.
-- **ModelSim** - Experienced in hardware simulation and verification.
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42"/>
+  </a>
+  <a href="https://www.perl.org/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="42" height="42"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 **What I Bring to the Table**
-- A strong foundation in both software and hardware development.
-- The ability to adapt and learn new technologies quickly.
-- A collaborative mindset and a passion for solving complex problems.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Milan721166&show_icons=true&locale=en" alt="Milan721166" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan721166&" alt="Milan721166" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan721166&show_icons=true&locale=en&layout=compact" alt="Milan721166" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Milan721166" alt="Milan721166" />
+  </a>
+</p>
 
 ---
 
-## 📂 **Explore My Repositories**
-Here are some of my featured projects:
+### 🐍 GitHub Snake Animation
 
-### **Project 1: [Project Name]**
-![Project GIF](https://media.giphy.com/media/GIF_ID/giphy.gif)  
-*(Replace `GIF_ID` with a dynamic GIF showcasing your project!)*
-
-### **Project 2: [Project Name]**
-![Project GIF](https://media.giphy.com/media/GIF_ID/giphy.gif)  
-*(Replace `GIF_ID` with a dynamic GIF showcasing your project!)*
-
----
-
-## 🌟 **Fun Fact**
-Did you know? The first computer virus was created in 1982! 🦠  
-*(Add a fun tech-related fact or trivia to make your profile more engaging!)*
-
----
-
-## 📬 **Let's Connect!**
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website]
-
----
-
-⭐ **Star my repositories if you find them interesting!** ⭐
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
