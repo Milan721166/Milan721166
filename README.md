@@ -1,80 +1,53 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Welcome to My Professional GitHub Profile! 👋
 
-###
+Hi there! I'm a passionate developer with a strong foundation in both software and hardware technologies. Below, you'll find a list of my technical skills and areas of expertise. Feel free to explore my repositories and reach out if you'd like to collaborate or connect!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ **Technical Skills**
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername&"  />
-</div>
+### **Programming Languages**
+- **C** - Proficient in low-level programming and system development.
+- **C++** - Experienced in object-oriented programming and performance-critical applications.
+- **Python (Flask)** - Skilled in building web applications and APIs using Flask.
 
-###
+### **Web Development**
+- **HTML** - Strong understanding of web structure and semantics.
+- **CSS** - Proficient in styling and creating responsive designs.
+- **JavaScript** - Experienced in front-end development and interactivity.
+- **React** - Skilled in building dynamic and scalable user interfaces.
 
-<h1 align="center">hey there 👋</h1>
+### **Version Control & Collaboration**
+- **Git** - Proficient in version control and branching strategies.
+- **GitHub** - Experienced in collaborative development and open-source contributions.
 
-###
+### **Databases**
+- **MySQL** - Skilled in database design, querying, and management.
 
-<h3 align="left">👩‍💻  About Me</h3>
+### **Networking & Hardware**
+- **Cisco** - Knowledgeable in networking fundamentals and Cisco technologies.
+- **ModelSim** - Experienced in hardware simulation and verification.
 
-###
+---
 
-<p align="left">I'm Milan Sahoo from India.<br><br>- 🔭 I’m working as an aspiring software developer.<br>- 📚 I'm currently learning React and Node.js.<br>- ⚡ In my free time I enjoy contributing to open-source projects and building fun side projects.</p>
+## 🚀 **What I Bring to the Table**
+- A strong foundation in both software and hardware development.
+- The ability to adapt and learn new technologies quickly.
+- A collaborative mindset and a passion for solving complex problems.
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 📂 **Explore My Repositories**
+Feel free to browse through my projects to see how I apply these skills in real-world scenarios. If you have any questions or suggestions, don't hesitate to reach out!
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+## 📬 **Let's Connect!**
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Portfolio**: [Your Portfolio Website]
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+⭐ **Star my repositories if you find them interesting!** ⭐
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-### Let's Connect!
-Feel free to reach out to me for collaborations or just to say hi! 😄
