@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
-<h3 align="center">A passionate frontend developer from [Your Location]</h3>
+<h3 align="center">A passionate frontend developer from Barasat</h3>
 
 ---
 
@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milan721166&" alt="Milan721166" />
+  <img src="https://streak-stats.demolab.com/?user=Milan721166" alt="Milan721166" />
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
 
 ---
 
-### 🐍 GitHub Snake Animation
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
